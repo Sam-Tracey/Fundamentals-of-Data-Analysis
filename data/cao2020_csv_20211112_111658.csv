@@ -1,0 +1,1028 @@
+Code,Title,Points1,Points2,Year
+AC120,International Business,209,280,2020
+AC137,Liberal Arts,252,270,2020
+AD101,"First Year Art & Design (Common Entry,portfolio)",,,2020
+AD102,Graphic Design and Moving Image Design (portfolio),,,2020
+AD103,Textile & Surface Design and Jewellery & Objects (portfolio),,,2020
+AD202,"Education & Design or Fine Art (Second Level Teaching,portfolio))",,,2020
+AD204,Fine Art (portfolio),,,2020
+AD211,Fashion Design (portfolio),,,2020
+AD212,Product Design (portfolio),,,2020
+AD215,Visual Culture,320,389,2020
+AD217,Illustration (portfolio),,,2020
+AD222,Interaction Design (portfolio),,,2020
+AL801,Software Design with Virtual Reality and Gaming,303,367,2020
+AL802,Software Design with Artificial Intelligence for Cloud Computing,332,382,2020
+AL803,Software Design with Mobile Apps and Connected Devices,337,360,2020
+AL805,Computer Engineering with Network Infrastructure,333,360,2020
+AL810,Quantity Surveying,326,352,2020
+AL811,Civil Engineering,320,432,2020
+AL820,Mechanical and Polymer Engineering,308,379,2020
+AL830,General Nursing,442,463,2020
+AL832,Psychiatric Nursing,384,399,2020
+AL836,Nutrition and Health Science,334,379,2020
+AL837,Sports Science with Exercise Physiology,351,384,2020
+AL838,Biotechnology,307,356,2020
+AL839,Microbiology,325,393,2020
+AL840,Pharmaceutical Sciences,347,403,2020
+AL841,Athletic and Rehabilitation Therapy,430,465,2020
+AL842,Bioveterinary Science,313,383,2020
+AL843,Physical Activity and Health Science,306,326,2020
+AL850,Business,309,377,2020
+AL851,Business and Law,295,351,2020
+AL852,Accounting,309,422,2020
+AL854,Sport Management (with international placement),299,338,2020
+AL855,Hospitality Management (with international placement),308,347,2020
+AL857,Digital Marketing,304,332,2020
+AL860,Social Care Practice,300,348,2020
+AL861,Animation and Illustration (portfolio),578,878,2020
+AL863,Graphic and Digital Design (portfolio),781,824,2020
+AL864,Early Years Care and Education,307,346,2020
+AL870,Applied Psychology,418,444,2020
+AS001,"Education, Home Economics and Biology - with concurrent Teacher Ed",518,544,2020
+AS002,"Education, Home Economics and Religious Ed - with concurrent Teacher Ed",434,466,2020
+AS003,"Education, Home Economics and Irish - with concurrent Teacher Ed",440,484,2020
+AS051,"Nutrition, Food and Business Management",317,398,2020
+AS054,Home Economics,398,429,2020
+AS110,General Nursing,419,431,2020
+AS130,Intellectual Disability Nursing,317,339,2020
+CI110,Counselling and Psychotherapy,310,392,2020
+CI111,Counselling and Addiction Studies,301,319,2020
+CI112,Counselling and Youth Studies,311,311,2020
+CK101,Arts - 3 years,300,388,2020
+CK102,Social Science,412,451,2020
+CK104,Arts with Music - 3 or 4 years (BMus or Chinese/European/Int`l Pathway),302,435,2020
+CK105,Film and Screen Media - 3 years or 4 years (International Pathway),319,418,2020
+CK107,Geographical and Archaeological Sciences - 3 or 4 years (Int`l Pathway),328,388,2020
+CK108,Arts International - 4 years,401,466,2020
+CK109,English - 3 years or 4 years (International Pathway),318,441,2020
+CK110,World Languages,410,506,2020
+CK111,Early Years and Childhood Studies,419,451,2020
+CK112,Theatre and Performative Practices - 3 or 4 years (Int`l Pathway),330,434,2020
+CK113,Criminology - 3 years or 4 years (International Pathway),423,463,2020
+CK114,Social Science (Youth and Community Work) - 3 years,777,,2020
+CK115,Social Work - Mature Applicants only,999,,2020
+CK118,Digital Humanities and IT - 3 or 4 years (Work Exper. or Int`l Pathway),336,378,2020
+CK120,Applied Psychology,531,555,2020
+CK121,Psychology and Computing - 3 or 4 years (Work Experience Pathway),466,496,2020
+CK122,Government and Political Science,326,403,2020
+CK123,Anthropology,308,410,2020
+CK124,Education - Gaeilge,452,495,2020
+CK125,Sports Studies and Physical Education,509,532,2020
+CK201,Commerce,477,509,2020
+CK202,Accounting,509,542,2020
+CK203,Business Information Systems,430,467,2020
+CK204,Finance,556,590,2020
+CK205,Commerce (International) with French,445,495,2020
+CK206,Commerce (International) with German,418,476,2020
+CK207,Commerce (International) with Italian,388,455,2020
+CK208,Commerce (International) with Hispanic Studies,402,484,2020
+CK209,Commerce (International) with Irish,484,531,2020
+CK211,Commerce (International) with Chinese Studies,397,433,2020
+CK212,Economics (through Transformational Learning) 3 or 4 years Int`l Pathway,444,473,2020
+CK213,Food Marketing and Entrepreneurship,462,476,2020
+CK214,International Development,346,422,2020
+CK301,Law (Pathways) -  3 or 4 years,498,531,2020
+CK302,Law and French,542,576,2020
+CK304,Law and Irish,540,565,2020
+CK307,Law and Business,556,589,2020
+CK401,Computer Science,468,509,2020
+CK402,Biological and Chemical Sciences,509,532,2020
+CK404,"Biological, Earth and Environmental Sciences",465,498,2020
+CK405,Genetics,487,498,2020
+CK406,Chemical Sciences,462,494,2020
+CK407,Mathematical Sciences,565,601,2020
+CK408,Physics and Astrophysics,531,589,2020
+CK409,Industrial Physics - Offered jointly by UCC and CIT,432,499,2020
+CK411,Data Science and Analytics,509,554,2020
+CK412,Agricultural Science,489,510,2020
+CK504,Nutritional Sciences,517,554,2020
+CK505,Food Science,420,465,2020
+CK600,Engineering,487,532,2020
+CK606,Architecture - Offered jointly by UCC and CIT,469,510,2020
+CK701,Medicine (Undergraduate Entry - HPAT required),731,739,2020
+CK702,Dentistry,613,613,2020
+CK703,Pharmacy,589,602,2020
+CK704,Occupational Therapy,555,577,2020
+CK705,Speech and Language Therapy,520,541,2020
+CK706,Public Health Sciences,454,477,2020
+CK707,Medical and Health Sciences,541,555,2020
+CK710,General Nursing,454,477,2020
+CK712,Children`s and General Nursing (Integrated),533,553,2020
+CK720,Mental Health Nursing,419,440,2020
+CK730,Intellectual Disability Nursing,400,433,2020
+CK740,Midwifery,473,507,2020
+CK791,Medicine  - Graduate Entry (GAMSAT required),57,58,2020
+CM001,Education - Primary Teaching,484,487,2020
+CM002,Education - Primary Teaching - Gaeltacht Applicants,,,2020
+CM003,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,528,570,2020
+CM004,Oideachas - Bunmhúinteoireacht Trí Mheán na Gaeilge – Gaeltacht,494,513,2020
+CM010,Education Studies,317,407,2020
+CM020,Early Childhood Education,327,390,2020
+CR105,Chemical and Biopharmaceutical Engineering,443,532,2020
+CR106,Software Development,411,463,2020
+CR108,Mechanical Engineering,434,509,2020
+CR109,Structural Engineering,394,423,2020
+CR110,Automotive Business Management and Technology,311,362,2020
+CR112,Creative Digital Media,361,430,2020
+CR116,Computer Systems,332,393,2020
+CR121,Music at CIT Cork School of Music,912,1078,2020
+CR125,Popular Music: Electric Bass Guitar at CIT Cork School of Music,1088,1088,2020
+CR126,Popular Music: Drums at CIT Cork School of Music,801,940,2020
+CR127,Popular Music: Electric Guitar at CIT Cork School of Music,768,978,2020
+CR128,Popular Music: Keyboards at CIT Cork School of Music,840,881,2020
+CR129,Popular Music: Voice at CIT Cork School of Music,841,966,2020
+CR130,Musical Theatre at CIT Cork School of Music,505,600,2020
+CR150,Business Information Systems,335,391,2020
+CR210,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",,,2020
+CR220,Fine Art at CIT Crawford College of Art and Design,,,2020
+CR225,Photography with New Media,,,2020
+CR305,Physical Sciences (Common Entry),282,356,2020
+CR310,IT Management,297,339,2020
+CR320,Biomedical Science - Offered jointly by CIT and UCC,565,577,2020
+CR325,Pharmaceutical Biotechnology,398,440,2020
+CR333,Nutrition and Health Science,402,433,2020
+CR335,Biological Sciences (Common Entry),420,451,2020
+CR340,Analytical Chemistry with Quality Assurance,251,366,2020
+CR360,Instrument Engineering,261,388,2020
+CR365,Environmental Science and Sustainable Technology,253,341,2020
+CR370,Agri-Biosciences,397,453,2020
+CR400,Accounting,316,413,2020
+CR420,Marketing,285,346,2020
+CR425,International Business with Language,298,412,2020
+CR430,Sport and Exercise Management,322,407,2020
+CR440,Montessori Education,288,362,2020
+CR500,Engineering (Common Entry),411,465,2020
+CR510,Sustainable Energy Engineering,320,389,2020
+CR520,Biomedical Engineering,444,488,2020
+CR560,Architectural Technology,308,377,2020
+CR565,Interior Architecture,359,423,2020
+CR570,Quantity Surveying,336,392,2020
+CR572,Construction Management,269,318,2020
+CR580,Electrical Engineering,318,377,2020
+CR590,Electronic Engineering,303,379,2020
+CR600,Visual Communications,,,2020
+CR660,Tourism Management,252,325,2020
+CR700,Theatre and Drama Studies at CIT Cork School of Music,645,982,2020
+CT125,Information Technology,220,299,2020
+CT325,Business,281,338,2020
+CW018,Business (options),248,312,2020
+CW028,Early Childhood Education and Care,252,301,2020
+CW038,Art (portfolio),700,700,2020
+CW058,Tourism and Event Management,298,348,2020
+CW068,Applied Social Studies in Professional Social Care,245,292,2020
+CW078,Sustainable Farm Management and Agribusiness,269,327,2020
+CW088,Visual Communications and Design,274,340,2020
+CW108,Science (options),261,346,2020
+CW128,Brewing and Distilling,263,318,2020
+CW138,Sport and Exercise Science,423,444,2020
+CW148,Strength and Conditioning,379,400,2020
+CW188,Sport Rehabilitation and Athletic Therapy,448,466,2020
+CW208,Computer Games Development,279,327,2020
+CW238,Software Development,297,341,2020
+CW248,Information Technology Management,285,385,2020
+CW258,Cybercrime and IT Security,293,358,2020
+CW268,Computing in Interactive Digital Art and Design,287,369,2020
+CW438,Construction (options),272,336,2020
+CW468,Architectural Technology,262,358,2020
+CW478,Civil Engineering,433,492,2020
+CW548,Mechanical Engineering,321,371,2020
+CW558,Electronic Systems,280,361,2020
+CW568,Aerospace Engineering,380,442,2020
+CW578,TV and Media Production,325,420,2020
+CW708,Law - LLB,302,349,2020
+CW728,Product Design Innovation,252,359,2020
+CW748,Early Childhood Education and Care,270,327,2020
+CW758,Professional Social Care Practice,336,358,2020
+CW808,Media and Public Relations,251,298,2020
+CW848,Digital Marketing with Analytics,269,326,2020
+CW858,"Sports Management and Coaching (options, portfolio)",700,700,2020
+CW908,Business (options),280,357,2020
+CW938,Business with Law,283,301,2020
+CW948,Accounting,300,364,2020
+DB500,Computing,218,301,2020
+DB501,Computing (Cloud Computing),227,280,2020
+DB502,Computing (Data Analytics and Big Data),334,377,2020
+DB503,Computing (Software Development),225,281,2020
+DB504,Computing (Web and Mobile Technology),281,281,2020
+DB510,Audio Production and Music Project Management,223,290,2020
+DB512,Business Studies,203,308,2020
+DB514,Business Studies (Law),251,270,2020
+DB515,Business Studies (Human Resource Management),244,326,2020
+DB516,Financial Services,,,2020
+DB517,Marketing (Event Management),238,309,2020
+DB521,Accounting and Finance,195,318,2020
+DB524,Business (Information Systems),309,409,2020
+DB526,Business (Cloud Computing),347,423,2020
+DB527,Applied Social Care,234,306,2020
+DB531,Marketing,293,336,2020
+DB562,Psychology,229,322,2020
+DB566,Social Science,220,290,2020
+DB567,Film and Creative Media,202,290,2020
+DB568,Law,217,309,2020
+DB569,Business (Psychology),252,284,2020
+DC001,Education - Early Childhood Education,440,462,2020
+DC002,Education - Primary Teaching,488,520,2020
+DC003,Education - Primary Teaching - Gaeltacht Applicants,445,462,2020
+DC004,Education - Primary Teaching (Church of Ireland Centre formerly CICE),409,463,2020
+DC009,Arts (Joint Honours) - Humanities,376,423,2020
+DC010,Post Primary Teacher Education - Religious Education and English,429,465,2020
+DC011,Post Primary Teacher Education - Religious Education and History,391,429,2020
+DC012,Post Primary Teacher Education - Religious Education and Music,378,420,2020
+DC013,Post Primary Teacher Ed - Gaeilge with French/German/Spanish,419,487,2020
+DC014,BA in Jazz and Contemporary Music Performance (audition),419,605,2020
+DC110,Business Studies International,465,488,2020
+DC111,Business Studies,488,507,2020
+DC112,Global Business (France),510,532,2020
+DC113,Global Business (Germany),462,496,2020
+DC114,Global Business (Spain),522,545,2020
+DC115,Accounting and Finance,510,544,2020
+DC116,Global Business (USA),579,601,2020
+DC117,Aviation Management / Aviation Management with Pilot Studies,475,500,2020
+DC118,Gnó agus Gaeilge / Business and Irish,359,429,2020
+DC119,Global Business (Canada),564,577,2020
+DC120,Enterprise Computing,357,392,2020
+DC121,Computer Applications,400,455,2020
+DC123,Data Science,465,531,2020
+DC126,Actuarial Mathematics,560,578,2020
+DC127,Common Entry into Actuarial and Financial Mathematics,520,543,2020
+DC131,Communication Studies,402,451,2020
+DC132,Journalism,422,466,2020
+DC133,Multimedia,410,451,2020
+DC155,Applied Language and Translation Studies,387,444,2020
+DC161,Analytical Science,489,510,2020
+DC162,Chemical and Pharmaceutical Sciences,521,544,2020
+DC166,Environmental Science and Technology,399,441,2020
+DC168,Genetics and Cell Biology,510,529,2020
+DC175,Physics General Entry (options),402,467,2020
+DC181,Biotechnology,495,511,2020
+DC190,Electronic and Computer Engineering (with choice of four majors),413,465,2020
+DC193,Mechatronic Engineering,411,487,2020
+DC195,Mechanical and Manufacturing Engineering,425,487,2020
+DC197,Biomedical Engineering,423,477,2020
+DC200,Common Entry into Engineering (Undenominated Entry),422,487,2020
+DC201,Common Entry into Science (Undenominated Entry),488,499,2020
+DC202,Sport Science and Health,498,521,2020
+DC203,Science Education,435,487,2020
+DC204,Athletic Therapy and Training,519,533,2020
+DC205,Physical Education with Biology,531,553,2020
+DC206,Physical Education with Mathematics,499,520,2020
+DC208,Psychology,521,533,2020
+DC209,Health and Society,440,466,2020
+DC215,General Nursing,433,462,2020
+DC216,Mental Health Nursing,403,424,2020
+DC217,Intellectual Disability Nursing,370,390,2020
+DC218,Children`s and General Nursing (Integrated),498,522,2020
+DC230,"Economics, Politics and Law",435,462,2020
+DC231,International Relations,397,433,2020
+DC232,Law and Society (BCL),466,496,2020
+DC235,Education and Training - Daytime and Flexible Delivery Mode (full-time),309,357,2020
+DC238,Social Sciences and Cultural Innovation,377,411,2020
+DC239,"Gaeilge, Iriseoireacht agus na Meáin Dhigiteacha",430,473,2020
+DC240,"Marketing, Innovation and Technology",474,498,2020
+DC291,Arts (Joint Honours) - Media Studies,376,409,2020
+DC292,Arts (Joint Honours) - Law,403,430,2020
+DC293,Arts (Joint Honours) - International Languages,377,466,2020
+DC295,Arts (Joint Honours) - Politics,376,409,2020
+DK810,Accounting and Finance,305,401,2020
+DK816,Business Studies,300,367,2020
+DK820,Computing in Games Development,311,348,2020
+DK821,Computing in Software Development,302,361,2020
+DK822,Augmented and Virtual Reality,304,380,2020
+DK830,Building Surveying,336,352,2020
+DK831,Architectural Technology,389,433,2020
+DK832,Construction Management,387,419,2020
+DK843,Engineering (Common Entry),340,439,2020
+DK844,Mechanical Engineering,305,448,2020
+DK845,Electrical & Electronic Engineering,304,392,2020
+DK846,Civil Engineering,361,392,2020
+DK850,International Tourism Management,317,377,2020
+DK860,Music (audition),503,634,2020
+DK861,Arts,302,363,2020
+DK862,Social Care,301,347,2020
+DK863,Creative Media,308,337,2020
+DK864,Film and Television Production,300,402,2020
+DK865,Audio and Music Production,301,367,2020
+DK870,General Nursing,397,419,2020
+DK872,Intellectual Disability Nursing,336,358,2020
+DK874,Mental Health Nursing,356,379,2020
+DK876,Early Childhood Studies,321,388,2020
+DK877,Midwifery,440,470,2020
+DK880,Health and Physical Activity,328,389,2020
+DK882,Agriculture (Award options),310,380,2020
+DK883,Science (Award options),300,370,2020
+DK884,Sustainable Agriculture,,,2020
+DK885,Agri-Food Production,,,2020
+DK886,Biopharmaceutical Science,301,338,2020
+DK887,Environmental Science,330,589,2020
+DL821,"English, Media and Cultural Studies",212,347,2020
+DL822,Arts Management,235,337,2020
+DL823,Business Management,237,325,2020
+DL825,Applied Psychology,379,434,2020
+DL826,Visual Communication Design,855,1024,2020
+DL827,Art,572,941,2020
+DL828,"3D Design, Modelmaking and Digital Art",538,920,2020
+DL829,Design for Stage and Screen (Costume Design),593,947,2020
+DL830,Design for Stage and Screen (Character Makeup Design),939,968,2020
+DL831,Design for Stage and Screen (Production Design),781,1026,2020
+DL832,Animation,920,1022,2020
+DL833,Photography,667,854,2020
+DL834,Film and Television Production,990,1040,2020
+DL836,Creative Computing,219,300,2020
+DL837,New Media Studies,201,316,2020
+DL838,Creative Music Production,754,972,2020
+DL839,Interaction and User Experience Design,683,990,2020
+DL840,Digital Marketing,228,327,2020
+DL841,English and Equality Studies,276,341,2020
+DN100,Architecture,510,541,2020
+DN120,Landscape Architecture,407,453,2020
+DN130,City Planning and Environmental Policy,390,432,2020
+DN150,Engineering (Common Entry),520,565,2020
+DN200,Science (options),533,567,2020
+DN201,Computer Science (Common Entry),510,542,2020
+DN230,Actuarial and Financial Studies,601,613,2020
+DN240,Sustainability,440,498,2020
+DN250,Agricultural Science (options),453,488,2020
+DN252,Dairy Business,410,455,2020
+DN253,Agri - Environmental Sciences,413,443,2020
+DN261,Food Science,476,495,2020
+DN262,Human Nutrition,531,553,2020
+DN271,Forestry,311,359,2020
+DN272,"Horticulture, Landscape and Sportsturf Management",282,378,2020
+DN300,Veterinary Medicine - Undergraduate Entry,589,602,2020
+DN301,Veterinary Medicine - Graduate Entry (GAMSAT required),,,2020
+DN310,Veterinary Nursing,466,489,2020
+DN400,Medicine - Undergraduate Entry (HPAT required),736,748,2020
+DN401,Medicine - Graduate Entry (GAMSAT required),58,61,2020
+DN410,Radiography,531,543,2020
+DN411,Radiography - Graduate Entry,,,2020
+DN420,Physiotherapy,568,589,2020
+DN425,Health and Performance Science,507,521,2020
+DN430,Sport and Exercise Management,433,455,2020
+DN440,"Biomedical, Health and Life Sciences",589,601,2020
+DN450,General Nursing,421,445,2020
+DN451,Children`s and General Nursing (Integrated),499,529,2020
+DN452,Midwifery,473,499,2020
+DN453,Mental Health Nursing,393,412,2020
+DN520,Joint Honours (options),310,409,2020
+DN530,Humanities (options),326,419,2020
+DN541,Modern Languages (options),300,443,2020
+DN600,Law (options),543,566,2020
+DN610,Business and Law,544,577,2020
+DN650,Commerce,521,543,2020
+DN660,Commerce International (options),510,531,2020
+DN670,Economics and Finance,613,625,2020
+DN700,Social Sciences (options),418,466,2020
+DN710,Economics,498,510,2020
+DN720,Psychology,522,543,2020
+DN750,Social Policy and Sociology,377,408,2020
+GA181,Accounting,309,403,2020
+GA182,Business,287,347,2020
+GA183,Business Information Systems,296,356,2020
+GA184,Marketing and Sales,307,357,2020
+GA185,Finance and Economics,293,392,2020
+GA186,Business with Entrepreneurship,280,356,2020
+GA187,Rural Enterprise and Agri-Business,281,352,2020
+GA281,Film and Documentary,304,379,2020
+GA282,Heritage Studies,220,281,2020
+GA283,Contemporary Art,679,870,2020
+GA284,Design,303,356,2020
+GA285,"Education (Art, Design and Graphics)",,,2020
+GA380,International Hotel Management,242,330,2020
+GA381,International Tourism Management,278,350,2020
+GA382,Culinary and Gastronomic Science,206,337,2020
+GA384,Event Management with Public Relations,212,328,2020
+GA480,Construction Management,260,336,2020
+GA482,Quantity Surveying and Construction Economics,288,350,2020
+GA483,Architectural Technology,265,337,2020
+GA484,Civil Engineering,290,383,2020
+GA580,Software and Electronic Engineering,300,393,2020
+GA680,Mechanical Engineering,330,401,2020
+GA681,Energy Engineering,293,366,2020
+GA682,Biomedical Engineering,313,393,2020
+GA683,Agricultural Engineering,309,385,2020
+GA684,Engineering (Common entry to Agri/Biomed/Energy/Mech Eng),340,405,2020
+GA685,Manufacturing Engineering Design,309,379,2020
+GA780,Applied Freshwater and Marine Biology,327,377,2020
+GA781,Applied Biology and Biopharmaceutical Science,337,390,2020
+GA782,Chemical and Pharmaceutical Science,336,388,2020
+GA783,Physics and Instrumentation,363,408,2020
+GA784,Science (Undenominated),372,403,2020
+GA785,Medical Science,473,500,2020
+GA786,Forensic Science and Analysis,317,387,2020
+GA787,Computing in Software Development,270,315,2020
+GA788,Computing and Digital Media,282,356,2020
+GA789,Agriculture and Environmental Management,289,371,2020
+GA790,Sport and Exercise Science,356,409,2020
+GA791,Public Health Nutrition,368,409,2020
+GA880,General Nursing,422,441,2020
+GA882,Psychiatric Nursing,367,377,2020
+GA885,Outdoor Education,252,262,2020
+GA887,History and Geography,244,380,2020
+GA889,Applied Social Care,266,298,2020
+GA890,Early Childhood Education and Care,270,327,2020
+GA891,Geography and Outdoor Education,244,391,2020
+GA980,Education (Design Graphics and Construction),377,411,2020
+GA984,"Furniture Design, Making and Technology - Common Entry",284,369,2020
+GC200,Business Studies,252,369,2020
+GC201,Accounting and Finance,303,388,2020
+GC230,Computing Science,325,393,2020
+GC250,Communications and Media Production,,,2020
+GC300,Business Studies,390,432,2020
+GC301,Accounting & Finance,253,346,2020
+GC302,Business Studies - HRM,,,2020
+GC305,International Hospitality Management,253,253,2020
+GC400,Business Studies,248,281,2020
+GC401,Accounting and Finance,202,343,2020
+GC402,Business Studies (HRM),218,236,2020
+GC403,Law,228,328,2020
+GC407,Business Studies (Marketing),218,321,2020
+GC430,Computing Science,220,298,2020
+GC450,Communications and Media Production,254,280,2020
+GC462,Design Communication (portfolio),,,2020
+GC489,Interior Architecture (portfolio),254,301,2020
+GC494,Fashion Design (portfolio),217,412,2020
+GY101,Arts (Joint-Honours),300,391,2020
+GY104,Arts (Psychology),519,542,2020
+GY105,Arts (History),301,377,2020
+GY107,Na Dána (Gaeilge agus Léann an Aistriúcháin),409,456,2020
+GY109,Arts (Mathematics and Education),403,466,2020
+GY110,Arts with Children`s Studies,357,418,2020
+GY111,Arts with Creative Writing,330,492,2020
+GY112,Arts with Film Studies,321,399,2020
+GY113,Arts with Human Rights,368,422,2020
+GY115,Arts with Performing Arts Studies,387,443,2020
+GY118,"Arts (Drama, Theatre and Performance Studies)",451,492,2020
+GY119,Arts (Journalism),400,465,2020
+GY120,"Arts (Child, Youth and Family: Policy and Practice)",350,397,2020
+GY121,Arts (Children`s Studies),356,419,2020
+GY122,Na Dána (Cumarsáid agus Gaeilge),361,453,2020
+GY123,Applied Social Sciences,358,410,2020
+GY124,Arts (Arts with Data Science),454,490,2020
+GY125,Arts (Digital Arts and Technology),328,347,2020
+GY126,Arts (English and Media Studies),391,462,2020
+GY127,Arts (Film and Digital Media),401,462,2020
+GY128,Arts (Global Languages),352,476,2020
+GY129,Arts (International),420,462,2020
+GY130,Arts (Music),408,495,2020
+GY131,Arts (History and Globalisation Studies),360,440,2020
+GY132,"Government (Politics, Economics and Law)",407,435,2020
+GY133,Education (Computer Science and Mathematical Studies),422,498,2020
+GY134,Geography and Geosystems,410,445,2020
+GY201,Commerce,433,466,2020
+GY202,Commerce (International) with French,484,511,2020
+GY203,Commerce (International) with German,489,566,2020
+GY204,Commerce (International) with Spanish,495,511,2020
+GY206,Business Information Systems (Work Placement & Optional Int`l Study),465,488,2020
+GY207,Commerce (Accounting) including optional Global Experience year,509,543,2020
+GY208,Commerce (Gaeilge),473,511,2020
+GY209,Commerce (Global Experience),530,554,2020
+GY250,Law and Business,487,510,2020
+GY251,Law (BCL),499,518,2020
+GY252,Law (BCL) and Human Rights,520,541,2020
+GY253,Law and Taxation,509,543,2020
+GY254,"Law (BCL), Criminology and Criminal Justice",530,554,2020
+GY261,"Business Studies (International Hotel Management, interview)",497,611,2020
+GY262,"Commerce (International Hotel Management, interview)",681,724,2020
+GY301,Science,432,487,2020
+GY303,Biomedical Science,556,589,2020
+GY304,Biotechnology,465,498,2020
+GY308,Environmental Science,408,484,2020
+GY309,Financial Mathematics and Economics,487,532,2020
+GY310,Marine Science,419,476,2020
+GY313,Environmental Health and Safety,412,440,2020
+GY314,Earth and Ocean Sciences,403,444,2020
+GY318,Biopharmaceutical Chemistry,509,542,2020
+GY319,Mathematical Science,476,566,2020
+GY320,"Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)",402,478,2020
+GY321,Genetics and Genomics,508,532,2020
+GY350,Computer Science and Information Technology,403,454,2020
+GY401,Engineering (Undenominated),465,511,2020
+GY402,Civil Engineering,455,499,2020
+GY405,Mechanical Engineering,454,509,2020
+GY406,Electronic and Computer Engineering,510,544,2020
+GY408,Biomedical Engineering,509,554,2020
+GY410,Project and Construction Management,403,456,2020
+GY413,Energy Systems Engineering,502,531,2020
+GY414,Electrical and Electronic Engineering,405,429,2020
+GY501,"Medicine (five year/six year course, HPAT required)",728,731,2020
+GY502,Occupational Therapy,555,567,2020
+GY503,Speech and Language Therapy,543,554,2020
+GY504,Podiatric Medicine,443,476,2020
+GY515,General Nursing (Galway and Portiuncula),473,496,2020
+GY516,Mental Health Nursing,440,467,2020
+GY517,Midwifery,495,518,2020
+ID001,Accounting and Finance,203,253,2020
+ID002,Business Studies,294,309,2020
+LC110,"Art and Design (Common Entry, portfolio)",740,961,2020
+LC114,Fashion and Textiles for Product and Costume (portfolio),880,1029,2020
+LC115,Art and Design Teacher Education (portfolio),942,1013,2020
+LC220,Digital Marketing,262,298,2020
+LC223,Law and Taxation,307,356,2020
+LC224,Accounting and Finance,300,371,2020
+LC225,Marketing and Management,298,358,2020
+LC226,Enterprise and Innovation,234,310,2020
+LC233,Software Development,272,339,2020
+LC234,Interactive Digital Media,225,307,2020
+LC236,Internet Systems Development,260,272,2020
+LC239,Computer Networks and Systems Management,309,371,2020
+LC241,Construction Management,255,338,2020
+LC242,Property Valuation and Management,282,320,2020
+LC243,Quantity Surveying,298,362,2020
+LC248,Built Environment (Common Entry),288,376,2020
+LC252,Civil Engineering Management,270,308,2020
+LC263,Clinical Technology,294,359,2020
+LC265,Forensic and Pharmaceutical Sciences,413,476,2020
+LC266,Drug and Medicinal Product Analysis,262,300,2020
+LC275,Electrical Engineering,298,384,2020
+LC288,Mechanical Engineering,346,415,2020
+LC289,Precision Engineering,291,350,2020
+LC292,Social Care Work,367,389,2020
+LC293,Business Studies with Travel and Tourism Management,307,356,2020
+LC294,Business Studies with Event Management,279,347,2020
+LC295,Business Studies with Sports Management,252,313,2020
+LC297,Community Development,235,298,2020
+LC320,Business,346,388,2020
+LC330,Business with Computing,297,378,2020
+LC340,Interior Design,350,391,2020
+LC362,Biotechnology and Biopharmaceutical Sciences,413,440,2020
+LC371,Creative Broadcast and Film Production,309,378,2020
+LC372,Music Technology and Production,325,402,2020
+LC374,Renewable and Electrical Energy Engineering,318,410,2020
+LC375,Industrial Automation and Robotic Systems,317,392,2020
+LC376,Electronic Engineering,318,358,2020
+LC380,Automotive Engineering and Transport Management,298,337,2020
+LC392,Business Studies in Beauty and Spa Management,236,328,2020
+LC393,Early Childhood Education and Care,236,307,2020
+LC401,Early Childhood Education and Care,297,298,2020
+LC402,Social Care Work,225,288,2020
+LC408,Environmental Science and Climate,279,348,2020
+LC414,Data Analytics and Cyber Security,236,336,2020
+LC416,Business,274,391,2020
+LC418,Computing - Games Design and Development,270,338,2020
+LC422,Sports Strength and Conditioning,298,347,2020
+LC434,Environmental Science and Agriculture,297,349,2020
+LC502,Game Art and Design (portfolio),852,1024,2020
+LC517,Creative Media and Design,234,327,2020
+LC518,Digital Animation Production (portfolio),808,939,2020
+LC612,Social Care Work,320,343,2020
+LC613,Early Childhood Education and Care,242,327,2020
+LM002,Arts,348,410,2020
+LM020,Law and Accounting,465,499,2020
+LM026,Performing Arts (audition required),303,401,2020
+LM028,Criminal Justice,418,440,2020
+LM029,Law Plus,490,521,2020
+LM038,Psychology and Sociology,500,507,2020
+LM039,Journalism and Digital Communication,402,455,2020
+LM040,European Studies,369,488,2020
+LM044,Applied Languages,442,499,2020
+LM050,Business Studies (options),431,476,2020
+LM056,International Business,528,555,2020
+LM058,Financial Mathematics,403,521,2020
+LM063,Technology Management,379,419,2020
+LM068,Food Science and Health,421,454,2020
+LM076,Product Design and Technology (portfolio required),408,487,2020
+LM077,Aeronautical Engineering,520,554,2020
+LM082,Construction Management and Engineering,398,434,2020
+LM089,Sport and Exercise Sciences,474,489,2020
+LM090,Physical Education with concurrent Teacher Education,532,565,2020
+LM091,Languages with concurrent Teacher Education,517,543,2020
+LM092,Science with Teacher Ed (Biology with Physics/Chemistry/Ag Science),507,531,2020
+LM093,Equine Science,339,412,2020
+LM094,Materials and Architectural Technology with concurrent Teacher Education,440,478,2020
+LM095,Materials and Engineering Technology with concurrent Teacher Education,367,421,2020
+LM096,Science with Teacher Ed (Physical Sciences with Chemistry and Physics),405,454,2020
+LM097,Mathematics and Computer Science with concurrent Teacher Education,402,509,2020
+LM099,Architecture (portfolio requirement suspended),498,532,2020
+LM100,Physiotherapy,589,601,2020
+LM101,Medicine  - Graduate Entry (GAMSAT required),55,57,2020
+LM102,Psychology,509,529,2020
+LM103,Paramedic Studies (B/C1/C1 Provisional Drivers Licence),392,445,2020
+LM115,Chemical and Biochemical Engineering,454,532,2020
+LM116,Engineering (Biomedical/Civil/Design and Manufacture/Mechanical),476,521,2020
+LM118,Electronic and Computer Engineering,403,489,2020
+LM121,Computer Science (Computer Systems/Games Dev/Mobile Comm Security),351,423,2020
+LM122,Creative Media and Interaction Design (Digital Design/Music Media Tech),327,401,2020
+LM123,Biological & Chemical Sciences (Biosci/Envir Sci/Ind Bio/IndPharma Chem),441,478,2020
+LM124,Mathematics (Math Science/Maths and Physics/Economics and Maths),437,509,2020
+LM125,Physics (Applied Physics or Mathematics & Physics),404,520,2020
+LM150,General Nursing,475,498,2020
+LM152,Mental Health Nursing,419,430,2020
+LM154,Intellectual Disability Nursing,440,473,2020
+LM156,Midwifery,469,499,2020
+LY108,Business - Accounting,309,431,2020
+LY118,Business,290,377,2020
+LY208,Law,300,367,2020
+LY228,Sports and Exercise - Common Entry,300,367,2020
+LY408,Design - Common Entry,320,381,2020
+LY508,Fire Safety Engineering,276,326,2020
+LY518,Quantity Surveying,301,368,2020
+LY528,Construction Management,271,321,2020
+LY608,Mechanical Engineering,300,379,2020
+LY618,Electronic Engineering,312,402,2020
+LY708,Applied Computing,306,372,2020
+LY748,Computer Science,317,420,2020
+LY818,Science - Common Entry,303,409,2020
+LY828,Agriculture - Common Entry,307,351,2020
+LY908,General Nursing,400,423,2020
+LY918,Psychiatric Nursing,357,387,2020
+LY928,Intellectual Disability Nursing,328,346,2020
+LY968,"Early Childhood Care, Health and Education",303,361,2020
+LY978,Health & Social Care - Common Entry,280,330,2020
+MH001,Education - Primary Teaching (Froebel),507,531,2020
+MH002,Education - Primary Teaching - Gaeltacht Applicants (Froebel),,,2020
+MH101,Arts,318,388,2020
+MH103,Music,,,2020
+MH106,Psychology - 3 years,521,529,2020
+MH107,Social Science,346,388,2020
+MH109,Media Studies,316,377,2020
+MH116,Community and Youth Work (Full-Time),,,2020
+MH201,Science,360,418,2020
+MH202,Biotechnology,455,466,2020
+MH203,Biological and Geographical Sciences,430,465,2020
+MH204,Physics with Astrophysics,422,479,2020
+MH206,Theoretical Physics and Mathematics,510,533,2020
+MH207,Data Science,445,520,2020
+MH208,Biological and Biomedical Sciences,498,510,2020
+MH209,Psychology (through Science) - 4 years,498,510,2020
+MH210,Pharmaceutical and Biomedical Chemistry,487,520,2020
+MH212,Science or Maths & Computer Science or Maths & Applied Maths (with Ed),422,487,2020
+MH304,Engineering (Computer/Electronic/Communications),333,444,2020
+MH305,Product Design,357,409,2020
+MH306,Robotics and Intelligent Devices,361,433,2020
+MH401,Finance (options),357,398,2020
+MH402,Quantitative Finance,476,509,2020
+MH403,Accounting and Finance,422,468,2020
+MH404,Business (options),430,454,2020
+MH405,Equine Business,357,408,2020
+MH407,Business and Accounting,420,462,2020
+MH411,Entrepreneurship,371,408,2020
+MH501,LLB Law - four year Single Major Law programme,473,495,2020
+MH502,Law (options),451,473,2020
+MH601,Computer Science through Arts (options),352,403,2020
+MH602,Computer Science through Science (options),351,409,2020
+MH603,Computational Thinking,532,544,2020
+MH801,Early Childhood - Teaching and Learning (part-time),327,378,2020
+MH802,"Community and Youth Work (part-time, in service)",,,2020
+MH803,"Local Studies/Community Studies (part-time, evening) - Mature Students",,,2020
+MI001,Contemporary & Applied Theatre Studies,390,412,2020
+MI002,Arts,281,389,2020
+MI004,Education - Primary Teaching - International,577,589,2020
+MI005,Education - Primary Teaching,495,521,2020
+MI006,Education - Primary Teaching - Gaeltacht Applicants,462,519,2020
+MI007,Early Childhood Care and Education,357,409,2020
+MI008,Education and Psychology - Primary Teaching,588,601,2020
+MI009,"Education, Business Studies and Accounting",402,455,2020
+MI010,"Education, Business Studies and Religious Studies",368,389,2020
+MI011,"Education, Gaeilge and Religious Studies",409,451,2020
+MI012,"Education, Gaeilge and Business Studies",401,463,2020
+MI013,"Education, Mathematics and Gaeilge",444,477,2020
+MI014,"Education, Mathematics and Business Studies",434,487,2020
+MU001,Theology and Arts,290,349,2020
+MU002,Theology,440,440,2020
+NC003,Computing (Degree Award options),260,303,2020
+NC005,Human Resource Management,300,331,2020
+NC009,Business,300,346,2020
+NC010,Psychology,400,440,2020
+NC020,Marketing Practice,282,338,2020
+NC022,Accounting and Finance,337,378,2020
+NC023,Technology Management (with specialisations),261,282,2020
+NM801,Montessori Education,220,290,2020
+PC405,"Social, Political and Community Studies",216,311,2020
+PC410,Arts and Humanities (fulfils Teaching Council requirements),209,300,2020
+PC411,English and History (fulfils Teaching Council requirements),209,310,2020
+RC001,Medicine - Undergraduate Entry (HPAT required),733,738,2020
+RC004,Physiotherapy,566,567,2020
+RC005,Pharmacy,578,589,2020
+RC101,Medicine - Graduate Entry (GAMSAT required),61,63,2020
+SG141,Business,261,347,2020
+SG142,Business in International Marketing and Languages (French),279,386,2020
+SG144,Business in International Marketing and Languages (Spanish),270,347,2020
+SG146,Accounting,309,411,2020
+SG147,Sport with Business,307,367,2020
+SG148,Tourism with Event Management,269,340,2020
+SG241,Performing Arts,328,387,2020
+SG242,Early Childhood Care and Education,279,319,2020
+SG243,Social Care Practice,301,346,2020
+SG244,Fine Art,505,505,2020
+SG245,Creative Design,282,339,2020
+SG246,Computing,290,333,2020
+SG247,English and Psychology,309,382,2020
+SG248,Sociology and Politics,281,327,2020
+SG249,Writing and Literature,297,368,2020
+SG250,Application Design and User Experience,412,412,2020
+SG251,Computing (Smart Technologies),342,367,2020
+SG252,Software Development,307,319,2020
+SG253,Computer Networks and Cloud Infrastructure,378,378,2020
+SG254,Writing and Literature Online,225,328,2020
+SG342,Civil Engineering,415,480,2020
+SG343,Quantity Surveying,311,367,2020
+SG346,Construction Project Management and Applied Technology,291,337,2020
+SG347,Architecture,360,411,2020
+SG348,Interior Architecture and Design,331,368,2020
+SG442,Occupational Safety and Health,290,367,2020
+SG443,Human Nutrition,356,397,2020
+SG444,Science Undenominated,338,420,2020
+SG445,Pharmaceutical Science with Drug Development,311,367,2020
+SG447,Health Science and Physical Activity,328,387,2020
+SG448,Forensic Investigation and Analysis,307,368,2020
+SG449,Medical Biotechnology,341,395,2020
+SG450,Environmental Science with Ecology (Level 8),304,368,2020
+TL801,"Animation, Visual Effects and Motion Design (Level 8)",281,349,2020
+TL802,"TV, Radio and New Media (Level 8)",325,397,2020
+TL810,Computing with Software Development,310,389,2020
+TL811,Computing with Games Development,358,,2020
+TL815,Computing (Degree Award options),308,360,2020
+TL823,Event Management (3 year programme),299,369,2020
+TL831,Business Studies (Major Specialism in: Acctng or Mktg or Mgmnt),306,381,2020
+TL844,Agricultural Engineering,300,373,2020
+TL845,Civil Engineering,325,413,2020
+TL847,Manufacturing Engineering,302,368,2020
+TL848,Agricultural Science,308,380,2020
+TL851,Wildlife Biology (Degree Award options),309,383,2020
+TL855,Pharmaceutical Science (Degree Award options),317,369,2020
+TL858,Veterinary Bioscience,308,393,2020
+TL871,Health and Leisure (Degree Award options),300,379,2020
+TL872,Health and Leisure with Massage,309,408,2020
+TL873,Coaching and Sports Performance,289,329,2020
+TL880,Early Childhood Care and Education,307,349,2020
+TL881,Social Care,309,362,2020
+TL889,Counselling with Addiction - Mature applicants only,,,2020
+TL890,General Nursing and Mature Applicants,414,441,2020
+TL891,Mental Health Nursing and Mature Applicants,378,399,2020
+TR002,Music,382,468,2020
+TR003,History,456,511,2020
+TR004,Law,565,578,2020
+TR005,Philosophy,442,476,2020
+TR006,Psychology,555,578,2020
+TR007,Clinical Speech and Language Studies,529,553,2020
+TR009,Music Education,420,532,2020
+TR012,History and Political Science,552,578,2020
+TR015,"Philosophy, Political Science, Economics and Sociology",589,601,2020
+TR016,Deaf Studies,329,377,2020
+TR017,Law and Business,602,613,2020
+TR018,Law and French,565,589,2020
+TR019,Law and German,542,566,2020
+TR020,Law and Political Science,601,613,2020
+TR021,"Classics, Ancient History and Archaeology",370,434,2020
+TR022,Early and Modern Irish,398,451,2020
+TR023,English Studies,474,511,2020
+TR024,European Studies,530,566,2020
+TR025,Drama and Theatre Studies,530,581,2020
+TR028,Ancient and Medieval History and Culture,342,453,2020
+TR029,Political Science and Geography,510,533,2020
+TR031,Mathematics,531,589,2020
+TR032,Engineering,508,533,2020
+TR033,Computer Science,509,545,2020
+TR034,Management Science and Information Systems Studies,613,625,2020
+TR035,Theoretical Physics,543,601,2020
+TR038,Engineering with Management,532,556,2020
+TR039,Computer Science and Language,424,488,2020
+TR040,Middle Eastern and European Languages and Cultures,466,521,2020
+TR041,Religion,368,418,2020
+TR042,Film,466,498,2020
+TR043,History of Art and Architecture,354,474,2020
+TR051,Medicine (HPAT required),734,745,2020
+TR052,Dental Science,613,625,2020
+TR053,Physiotherapy,566,567,2020
+TR054,Occupational Therapy,533,554,2020
+TR055,Radiation Therapy,543,554,2020
+TR056,Human Health and Disease,564,578,2020
+TR060,Biological and Biomedical Sciences,543,566,2020
+TR061,Chemical Sciences,510,532,2020
+TR062,Geography and Geoscience,473,499,2020
+TR063,Physical Sciences,477,531,2020
+TR072,Pharmacy,590,613,2020
+TR080,Global Business,589,601,2020
+TR081,"Business, Economic and Social Studies (BESS)",543,565,2020
+TR082,Computer Science and Business,555,578,2020
+TR083,Sociology and Social Policy,478,513,2020
+TR084,Social Studies (Social Work),462,495,2020
+TR085,Business Studies and French,521,543,2020
+TR086,Business Studies and German,499,518,2020
+TR087,Business Studies and Russian,456,488,2020
+TR089,Business Studies and Polish,424,468,2020
+TR090,Business Studies and Spanish,531,542,2020
+TR091,General Nursing (Meath and St James`s),429,455,2020
+TR093,General Nursing (Adelaide School of Nursing),414,441,2020
+TR095,Mental Health Nursing,408,430,2020
+TR097,Intellectual Disability Nursing,378,398,2020
+TR111,Ancient History and Archaeology/Geography,352,429,2020
+TR112,Ancient History and Archaeology/History,529,,2020
+TR113,Ancient History and Archaeology/History of Art and Architecture,337,477,2020
+TR114,Ancient History and Archaeology/Modern Language,337,420,2020
+TR117,Ancient History and Archaeology/Religion,342,368,2020
+TR166,Classical Civilisation/English Literature,496,523,2020
+TR173,Classical Civilisation/History of Art and Architecture,335,466,2020
+TR177,Classical Civilisation/Modern Language,335,536,2020
+TR179,Classical Civilisation/Philosophy,479,518,2020
+TR198,Economics/Geography,534,552,2020
+TR202,Economics/History,534,566,2020
+TR207,Economics/Mathematics,566,601,2020
+TR208,Economics/Modern Language,534,578,2020
+TR209,Economics/Philosophy,534,576,2020
+TR212,Economics/Sociology,534,541,2020
+TR228,Classical Languages/English Literature,498,533,2020
+TR231,Classical Languages/History of Art and Architecture,349,444,2020
+TR233,"Classical Languages/Middle Eastern,Jewish and Islamic Civilisations",349,566,2020
+TR239,Classical Languages/Modern Language,349,349,2020
+TR262,English Literature/History,529,552,2020
+TR263,English Literature/History of Art and Architecture,497,533,2020
+TR269,English Literature/Philosophy,495,532,2020
+TR272,English Literature/Sociology,498,519,2020
+TR276,English Literature/Drama Studies,476,530,2020
+TR277,English Literature/Modern Language,489,543,2020
+TR311,Film/Drama Studies,521,557,2020
+TR312,Film/English Literature,521,541,2020
+TR320,Film/Music,521,555,2020
+TR322,Geography/History,529,555,2020
+TR323,Drama Studies/Modern Language,473,551,2020
+TR324,Film/Modern Language,521,544,2020
+TR325,Film/History,529,625,2020
+TR326,Geography/Modern Language,352,440,2020
+TR332,Geography/Sociology,496,520,2020
+TR443,History/History of Art and Architecture,529,532,2020
+TR447,History/Modern Language,529,554,2020
+TR449,History/Philosophy,529,543,2020
+TR452,History/Sociology,529,534,2020
+TR454,History/Religion,529,534,2020
+TR455,History of Art and Architecture/Modern Language,334,454,2020
+TR479,History of Art and Architecture/Philosophy,485,555,2020
+TR547,"Middle Eastern,Jewish and Islamic Civ./Ancient History and Archaeology",337,473,2020
+TR548,"Middle Eastern,Jewish and Islamic Civilisations/Classical Civilisation",335,543,2020
+TR554,"Middle Eastern,Jewish and Islamic Civilisations/History",529,555,2020
+TR563,"Middle Eastern,Jewish and Islamic Civilisations/Modern Language",335,451,2020
+TR564,"Middle Eastern,Jewish and Islamic Civilisations/Music",,,2020
+TR565,"Middle Eastern,Jewish and Islamic Civilisations/Religion",342,,2020
+TR597,Mathematics/Modern Language,566,625,2020
+TR598,Mathematics/Music,566,,2020
+TR599,Mathematics/Philosophy,566,589,2020
+TR629,Music/Philosophy,499,,2020
+TR635,Music/Drama Studies,473,487,2020
+TR636,Music/Modern Language,388,455,2020
+TR638,Music/Religion,388,440,2020
+TR639,Philosophy/Modern Language,499,613,2020
+TR662,Philosophy/Sociology,499,531,2020
+TR663,Religion/Classical Civilisation,342,591,2020
+TR664,Religion/English Literature,498,565,2020
+TR665,Religion/History of Art and Architecture,342,452,2020
+TR666,Religion/Modern Language,,,2020
+TR667,French/Modern Language,403,478,2020
+TR668,German/Modern Language,389,465,2020
+TR669,Irish/Modern Language,368,473,2020
+TR670,Italian/Modern Language,381,466,2020
+TR671,Russian/Modern Language,332,494,2020
+TR672,Spanish/Modern Language,336,488,2020
+TR755,Sociology/Drama Studies,498,543,2020
+TR756,Sociology/Modern Language,495,510,2020
+TR911,Children`s and General Nursing (Integrated),499,521,2020
+TR913,Midwifery,473,508,2020
+TU801,Biomedical Design,235,381,2020
+TU802,Electrical Services and Energy Management,300,352,2020
+TU803,Electronic Engineering,243,337,2020
+TU804,Engineering (Common Entry with Award options),271,338,2020
+TU805,Engineering (General Entry),402,466,2020
+TU806,Sustainable Energy Engineering,262,318,2020
+TU807,Computer Engineering in Mobile Systems,276,305,2020
+TU808,Engineering Software,260,339,2020
+TU809,Mechanical Engineering,235,347,2020
+TU810,Mechatronic Engineering,271,312,2020
+TU811,Product Design,411,444,2020
+TU812,"Design,Technology and Innovation",270,350,2020
+TU813,Automation Engineering,218,339,2020
+TU814,Transport Operations and Technology,251,372,2020
+TU831,Architectural Technology,410,444,2020
+TU832,Architecture (Suitability Test and Interview),622,658,2020
+TU833,Construction Management,367,404,2020
+TU834,Geographic Science,288,357,2020
+TU835,Planning and Environmental Management,313,349,2020
+TU836,Property Economics (Valuation Surveying),401,433,2020
+TU837,Quantity Surveying and Construction Economics,385,418,2020
+TU851,Analytical Chemistry (Environmental Forensic and Pharmaceutical),349,419,2020
+TU852,Chemical Sciences with Medicinal Chemistry,476,498,2020
+TU854,Science (General Entry),476,495,2020
+TU855,Science with Nanotechnology,319,368,2020
+TU856,Computer Science,476,487,2020
+TU857,Computer Science (Infrastructure),391,419,2020
+TU858,Computer Science (International),377,424,2020
+TU859,Computing,217,308,2020
+TU860,Computing (Information Technology),260,329,2020
+TU861,Computing with Language (French/German/Spanish),308,348,2020
+TU862,Computing with Data Analytics,226,288,2020
+TU863,Digital Forensics and Cyber Security,280,338,2020
+TU864,DNA and Forensic Analysis,390,429,2020
+TU865,Computing with IT Management,226,331,2020
+TU866,Biomedical and Molecular Diagnostics,487,498,2020
+TU867,Biomedical Science,524,542,2020
+TU868,Clinical Measurement Science,510,520,2020
+TU869,Environmental Health,336,375,2020
+TU870,Human Nutrition and Dietetics,578,589,2020
+TU871,Optometry,509,530,2020
+TU872,Public Health Nutrition,491,512,2020
+TU873,Industrial Mathematics,250,392,2020
+TU874,Mathematical Sciences,343,407,2020
+TU875,Pharmaceutical Healthcare,400,440,2020
+TU876,Pharmaceutical Science,349,391,2020
+TU877,Physics Technology,308,373,2020
+TU878,Physics with Energy and Environment,331,444,2020
+TU879,Physics with Medical Physics and Bioengineering,351,403,2020
+TU880,Physics with Data Science,,,2020
+TU881,Food Innovation,318,389,2020
+TU882,Nutraceuticals in Health and Nutrition,397,442,2020
+TU901,Business,270,307,2020
+TU902,Business (Common Entry with Award options),271,359,2020
+TU903,Business and Management,463,485,2020
+TU904,Business and Law,462,487,2020
+TU905,Economics and Finance,465,488,2020
+TU906,Human Resource Management,395,414,2020
+TU907,Logistics and Supply Chain Management,300,387,2020
+TU908,Management,253,337,2020
+TU909,Accounting and Finance,285,326,2020
+TU910,Accounting and Finance,444,466,2020
+TU911,Accounting and Finance,192,319,2020
+TU912,Business Analytics,330,366,2020
+TU913,Business and Information Technology,252,299,2020
+TU914,Business Computing,324,366,2020
+TU915,International Business,252,302,2020
+TU916,International Business,235,337,2020
+TU917,Law (LLB ) with a Language,342,433,2020
+TU918,Law (LLB),451,478,2020
+TU919,Advertising and Marketing Communications,226,311,2020
+TU920,Digital Marketing,270,318,2020
+TU921,Digital Marketing Technologies,234,300,2020
+TU922,Marketing,418,443,2020
+TU923,Marketing Management,228,318,2020
+TU924,E-Commerce in Retailing,307,380,2020
+TU925,Retail and Services Management,301,362,2020
+TU935,Sports Management and Coaching,300,347,2020
+TU936,Sports Science and Health,391,419,2020
+TU941,Botanical Cuisine,249,257,2020
+TU942,Culinary Arts,212,340,2020
+TU943,Culinary Entrepreneurship,279,357,2020
+TU944,Culinary Science,316,379,2020
+TU951,International Hospitality and Tourism Management,200,298,2020
+TU952,International Hospitality Management,306,368,2020
+TU953,Tourism and Digital Marketing,290,359,2020
+TU954,Event Management,356,404,2020
+TU955,Sports & Leisure Management,217,347,2020
+TU961,Commercial Modern Music,608,848,2020
+TU962,Drama (Performance),379,500,2020
+TU963,Music,416,535,2020
+TU965,International Business and Languages,346,413,2020
+TU966,Languages and English Studies,434,466,2020
+TU967,Languages and International Tourism,326,388,2020
+TU971,Contemporary Visual Culture,290,320,2020
+TU972,Creative and Cultural Industries,281,369,2020
+TU973,Design - Visual Communication,717,865,2020
+TU974,Fine Art,563,826,2020
+TU975,Interior Design,632,879,2020
+TU976,Photography,695,926,2020
+TU981,Creative Digital Media,282,318,2020
+TU982,Creative Digital Media,311,352,2020
+TU983,Film and Broadcasting,451,484,2020
+TU984,Game Design,381,419,2020
+TU985,Journalism,322,377,2020
+TU986,Print Media Technology and Management,289,300,2020
+TU991,Applied Social Studies in Social Care,325,352,2020
+TU992,Community and Youth Development,253,297,2020
+TU993,Early Childhood Care and Education,270,311,2020
+TU994,Early Childhood Care and Education,230,304,2020
+TU995,Early Childhood Education,367,409,2020
+TU996,Social Care,400,419,2020
+TU997,Applied Social Care,270,318,2020
+WD001,Applied Computing (options),260,413,2020
+WD002,Science (options),308,388,2020
+WD005,Health Sciences (options),280,338,2020
+WD006,Exercise Sciences (options),280,359,2020
+WD007,Engineering (options),288,409,2020
+WD025,Construction Management and Engineering,269,341,2020
+WD027,Music,262,409,2020
+WD048,Business (options),271,371,2020
+WD084,Accounting,308,411,2020
+WD091,Hospitality Management,228,310,2020
+WD116,General Nursing,422,451,2020
+WD117,Psychiatric Nursing,366,388,2020
+WD120,Intellectual Disability Nursing,377,388,2020
+WD134,International Business,290,362,2020
+WD137,Design (Visual Communications),271,351,2020
+WD140,Laws,280,367,2020
+WD144,Architecture,284,359,2020
+WD147,Pharmaceutical Science,293,390,2020
+WD149,Early Childhood Studies,271,368,2020
+WD150,Criminal Justice Studies,270,331,2020
+WD152,Visual Art,,317,2020
+WD161,Computer Forensics and Security,255,380,2020
+WD162,Quantity Surveying,216,306,2020
+WD163,Psychology,434,473,2020
+WD186,Sports Coaching and Performance,270,344,2020
+WD187,Social Science,272,348,2020
+WD191,Agricultural Science,377,420,2020
+WD192,Social Care Practice,270,326,2020
+WD193,Marketing and Digital Media,271,347,2020
+WD194,Culinary Arts,217,321,2020
+WD195,Architectural and Building Information Modelling Technology,279,367,2020
+WD200,Arts (options),,336,2020
+WD210,Software Systems Development,279,337,2020
+WD211,Creative Computing,271,318,2020
+WD212,Recreation and Sport Management,270,349,2020
+WD230,Mechanical and Manufacturing Engineering,253,369,2020
