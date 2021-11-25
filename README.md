@@ -11,6 +11,6 @@ Python package [3]. You have free reign to choose the three plots yourself.
 Include a Jupyter notebook called cao.ipynb that contains the following.
 10% A clear and concise overview of how to load CAO points information from the
 CAO website into a pandas data frame [4], pitched as your classmates.
-20% A detailed comparison of CAO points in 2019, 2020, and 2021 using the functionality in pandas.
+20% A detailed comparison of CAO points in 2019, 2020, and 2021 using the functionality in pandas.
 10% Appropriate plots and other visualisations to enhance your notebook for viewers
 
