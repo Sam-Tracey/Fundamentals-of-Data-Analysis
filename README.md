@@ -54,7 +54,13 @@ There are two separate notebooks included in this repository.
 
 ![](Images/install1.png)
 
+
+
+
 3. Click on HTTPS then the "copy" icon:
+
+
+
 
 ![](Images/install2.png)
 
@@ -84,10 +90,16 @@ To install Tabula.py:
 4. A broswer window will open with Jupyter Lab Running.
 5. In the left hand window you will see two .ipynb files:
 
+
+
+
 ![](Images/install3.png)
 
 6. Double click on either one to open the code.
 7. In the Menu Bar select: Run > Run All Cells:
+
+
+
 
 ![](Images/install4.png)
 
