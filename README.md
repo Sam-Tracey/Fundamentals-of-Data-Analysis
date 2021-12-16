@@ -1,5 +1,14 @@
-## Fundamentals-of-Data-Analysis
-Repository for GMIT 2021 Fundamentals of Data Analysis Coursework
+## Fundamentals-of-Data-Analysis 2021
+
+### Name: Sam Tracey
+### Student ID: G00398245
+### Date: January 2022
+
+![](data/GMIT_logo.jpeg)
+
+***
+
+
 
 Include a Jupyter notebook called pyplot.ipynb that contains the following.
 15% A clear and concise overview of the matplotlib.pyplot Python package [3],
