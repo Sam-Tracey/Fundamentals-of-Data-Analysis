@@ -1,4 +1,4 @@
-![](Images/GMIT_logo.jpeg)
+![GMIT_Header](Images/GMIT_logo.jpeg)
 
 ***
 
@@ -52,9 +52,9 @@ There are two separate notebooks included in this repository.
 1. Open your browser and paste the following into the address bar: https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis
 2. Above the list of files click the green Code button:
 
-![](Images/install1.png)
+![image1](Images/install1.png)
 
-
+<br>
 
 
 3. Click on HTTPS then the "copy" icon:
@@ -62,12 +62,15 @@ There are two separate notebooks included in this repository.
 
 
 
-![](Images/install2.png)
+![Image2](Images/image2.png)
 
+
+<br>
 4. Open your preferred Command Line Linterface (CLI). During this project I used Cmder which can be downloaded at: https://cmder.net/
 5. Navigate to the directory into which you wish to clone the repository e.g cd Users\yourname\Desktop
 6. Type git clone and then the paste the URL you copied in step 3 above: <code>λ git clone https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis.git</code>
 
+<br>
 
 ## Installing Necessary Packages.
 
@@ -93,7 +96,9 @@ To install Tabula.py:
 
 
 
-![](Images/install3.png)
+![Image3](Images/image3.png)
+
+<br>
 
 6. Double click on either one to open the code.
 7. In the Menu Bar select: Run > Run All Cells:
@@ -101,8 +106,9 @@ To install Tabula.py:
 
 
 
-![](Images/install4.png)
+![Image4](Images/image4.png)
 
+<br>
 
 ## Navigating the Notebooks.
 
