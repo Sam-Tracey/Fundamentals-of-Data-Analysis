@@ -53,10 +53,9 @@ There are two separate notebooks included in this repository.
 2. Above the list of files click the green Code button:
 
 
-<div>
-<img src="attachment:Images/install1.png" width="200"/>
+<div style="max-width:200px;margin-left: auto; margin-right: 0;">
+    ![My Image alt text](Image/install1.png)
 </div>
-
 
 <br>
 
