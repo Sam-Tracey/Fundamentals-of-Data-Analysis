@@ -52,7 +52,11 @@ There are two separate notebooks included in this repository.
 1. Open your browser and paste the following into the address bar: https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis
 2. Above the list of files click the green Code button:
 
-![image1](Images/install1.png)
+
+<div>
+<img src="attachment:Images/install1.png" width="200"/>
+</div>
+
 
 <br>
 
