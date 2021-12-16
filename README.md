@@ -53,7 +53,7 @@ There are two separate notebooks included in this repository.
 2. Above the list of files click the green Code button:
 
 
-<img src="Image/install1.png" width="250" height="250"/>
+<img src="Images/install1.png" width="250" height="250"/>
 
 
 
