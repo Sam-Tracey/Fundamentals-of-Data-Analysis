@@ -15,16 +15,16 @@
 This repository contains two Jupyter Notebooks and associated files demonstrating my Python programming for the module
 "Fundamentals of Data Analysis" 2021 using the following Python packages:
 
-- <code>pandas</code>
-- <code>numpy</code>
-- <code>re</code>
-- <code>requests</code>
-- <code>datetime</code>
-- <code>tabula</code>
-- <code>matplotlib.pyplot</code>
-- <code>seaborn</code>
-- <code>scipy</code>
-- <code>probscale</code>
+- <code>pandas</code> https://pandas.pydata.org/docs/
+- <code>numpy</code> https://numpy.org/doc/
+- <code>re</code> https://docs.python.org/3/library/re.html
+- <code>requests</code> https://docs.python-requests.org/en/latest/
+- <code>datetime</code> https://docs.python.org/3/library/datetime.html
+- <code>tabula</code> https://tabula-py.readthedocs.io/en/latest/
+- <code>matplotlib.pyplot</code> https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html
+- <code>seaborn</code> https://seaborn.pydata.org/
+- <code>scipy</code> https://docs.scipy.org/doc/scipy/reference/
+- <code>probscale</code> https://matplotlib.org/mpl-probscale/
     
 
     
