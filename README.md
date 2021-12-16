@@ -64,8 +64,8 @@ There are two separate notebooks included in this repository.
 
 
 
+<img src="Images/image2.png" width="50%" height="50%"/>
 
-![Image2](Images/image2.png)
 
 
 <br>
@@ -98,8 +98,7 @@ To install Tabula.py:
 
 
 
-
-![Image3](Images/image3.png)
+<img src="Images/image3.png" width="50%" height="50%"/>
 
 <br>
 
@@ -108,8 +107,8 @@ To install Tabula.py:
 
 
 
+<img src="Images/image4.png" width="50%" height="50%"/>
 
-![Image4](Images/image4.png)
 
 <br>
 
