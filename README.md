@@ -156,3 +156,16 @@ This section gives a brief introduction into the package and walks through the p
 
 In this section I decided to use a time series plot, barplot and boxplot to create a Covid-19 dashboard.
 The dashboard evaluates the Covid-19 cases in Ireland per day. the Covid-19 deaths per day, the vaccination rate per European Country and finally the vaccintaion rate across different continents.
+
+
+## Trouble Shooting.
+
+1. Data Will Not Load From URL.
+
+Both of these notebooks retrieve data from official websites at specific URLs. In the case that the URLs change or the websites themselves are removed I wanted to provide a method for the notebooks to still function even without being able to retrieve the data. If you find that either notebook generates errors when loading the data from any of the URLs I have included an "In Case of Emergency" section in a mark down cell within each notebook. Please follow the instructions in this section to enable you to load a version of the data stored locally in the repository.
+
+
+2. Issues Running Tabula.py.
+
+The tabula.py package is used to extract data from .pdf documents and is used in the cao.ipynb notebook. The tabula.py package relies on Java being installed on your machine. If you have any issues with installing tabula.py please consult the documentation at the following link: https://tabula-py.readthedocs.io/en/latest/getting_started.html
+
