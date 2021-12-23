@@ -169,3 +169,11 @@ Both of these notebooks retrieve data from official websites at specific URLs. I
 
 The tabula.py package is used to extract data from .pdf documents and is used in the cao.ipynb notebook. The tabula.py package relies on Java being installed on your machine. If you have any issues with installing tabula.py please consult the documentation at the following link: https://tabula-py.readthedocs.io/en/latest/getting_started.html
 
+
+3. Notebook Images not Rendering Properly in Github.
+
+There are intermittent issues with embedded images not rendering correctly when viewed in a Github repository. If this should happen when you are viewing this work I have created a static HTML web page version of each notebook using nbviewer.
+
+Link to static cao.ipynb notebook: https://nbviewer.org/github/Sam-Tracey/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb
+Link to static pyplot.ipynb notebook: https://nbviewer.org/github/Sam-Tracey/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb
+
