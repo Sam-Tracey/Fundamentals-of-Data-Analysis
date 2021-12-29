@@ -174,6 +174,6 @@ The tabula.py package is used to extract data from .pdf documents and is used in
 
 There are intermittent issues with embedded images not rendering correctly when viewed in a Github repository. If this should happen when you are viewing this work I have created a static HTML web page version of each notebook using nbviewer.
 
-Link to static cao.ipynb notebook: https://nbviewer.org/github/Sam-Tracey/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb
+Link to static cao.ipynb notebook: https://nbviewer.org/github/Sam-Tracey/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb
 Link to static pyplot.ipynb notebook: https://nbviewer.org/github/Sam-Tracey/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb
 
