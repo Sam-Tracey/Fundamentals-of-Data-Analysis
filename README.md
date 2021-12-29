@@ -69,9 +69,9 @@ There are two separate notebooks included in this repository.
 
 
 <br>
-4. Open your preferred Command Line Linterface (CLI). During this project I used Cmder which can be downloaded at: https://cmder.net/
-5. Navigate to the directory into which you wish to clone the repository e.g cd Users\yourname\Desktop
-6. Type git clone and then the paste the URL you copied in step 3 above: <code>λ git clone https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis.git</code>
+4. Open your preferred Command Line Linterface (CLI). During this project I used Cmder which can be downloaded at: https://cmder.net/ <br>
+5. Navigate to the directory into which you wish to clone the repository e.g cd Users\yourname\Desktop <br>
+6. Type git clone and then the paste the URL you copied in step 3 above: <code>λ git clone https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis.git</code> <br>
 
 <br>
 
