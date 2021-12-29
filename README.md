@@ -69,7 +69,7 @@ There are two separate notebooks included in this repository.
 
 
 <br>
-4. Open your preferred Command Line Linterface (CLI). During this project I used Cmder which can be downloaded at: https://cmder.net/ <br>
+4. Open your preferred Command Line interface (CLI). During this project I used Cmder which can be downloaded at: https://cmder.net/ <br>
 5. Navigate to the directory into which you wish to clone the repository e.g cd Users\yourname\Desktop <br>
 6. Type git clone and then the paste the URL you copied in step 3 above: <code>λ git clone https://github.com/Sam-Tracey/Fundamentals-of-Data-Analysis.git</code> <br>
 
@@ -93,7 +93,7 @@ To install Tabula.py:
 1. Open your Command Line Interface (CLI).
 2. Navigate to the directory in which you cloned the repository.
 3. In your CLI type: <code>jupyter lab</code>
-4. A broswer window will open with Jupyter Lab Running.
+4. A browser window will open with Jupyter Lab Running.
 5. In the left hand window you will see two .ipynb files:
 
 
@@ -116,7 +116,7 @@ To install Tabula.py:
 
 When you have successfully run all cells in each notebook feel free to look around!
 
-The notebook cao.ipynb can be split into several different secitons:
+The notebook cao.ipynb can be split into several different sections:
 
 ### 1. Importing Data From The CAO Website.
 
@@ -126,7 +126,7 @@ CAO 2020 Points were in .xlsx format.
 CAO 2021 Points were in .php format.
 
 Two months into this project the CAO decided to change the CAO 2021 points to .xlsx and, while the original .php link still works I decided to change my code to import the .xlsx file as it contained
-several more useful data fields. You will see that I left the code for importing the CAO 2021 .php format in the notebook but it is commented out and will not run unless you want to uncomment the code.
+several more useful data fields. You will see that I left the code for importing the CAO 2021 .php format in the notebook but the cells have been converted to "Raw" type. If you want to run the code in these cells please convert them to "Code".
 
 ### 2. Data Wrangling.
 
@@ -134,7 +134,7 @@ The next section of the cao.ipynb notebook involves data wrangling. In this sect
 
 ### 3. Exploratory Data Analysis.
 
-The final section involves data exploration using visualisations and statistical analysis where approporiate. 
+The final section involves data exploration using visualisations and statistical analysis where appropriate. 
 Visualizations include:
 - Histograms.
 - KDE Plots.
@@ -142,7 +142,7 @@ Visualizations include:
 - Bar plots.
 - Scatter Plots.
 
-Statistical Anlysis includes:
+Statistical Analysis includes:
 - Hypothesis Testing using Spearman R Test.
 - Correlation analysis.
 
@@ -155,7 +155,7 @@ This section gives a brief introduction into the package and walks through the p
 ### 2. An Indepth Description Into Three Pyplot Charts.
 
 In this section I decided to use a time series plot, barplot and boxplot to create a Covid-19 dashboard.
-The dashboard evaluates the Covid-19 cases in Ireland per day, the Covid-19 deaths per day, the vaccination rate per European Country and finally the vaccintaion rates worldwide.
+The dashboard evaluates the Covid-19 cases in Ireland per day, the Covid-19 deaths per day, the vaccination rate per European Country and finally the vaccination rates worldwide.
 
 
 ## Trouble Shooting.
