@@ -126,11 +126,11 @@ CAO 2020 Points were in .xlsx format.
 CAO 2021 Points were in .php format.
 
 Two months into this project the CAO decided to change the CAO 2021 points to .xlsx and, while the original .php link still works I decided to change my code to import the .xlsx file as it contained
-several more, useful data field. You will see that I left the code for importing the CAO 2021 .php format in the notebook but it is commented out and will not run unless you want to uncomment the code.
+several more useful data fields. You will see that I left the code for importing the CAO 2021 .php format in the notebook but it is commented out and will not run unless you want to uncomment the code.
 
 ### 2. Data Wrangling.
 
-The next section of the cao.ipynb notebook involves data wrangling were I manipulate the imported data from CAO 2019, CAO 2020 and CAO 2021 into one cohesive dataframe on which the analysis is performed.
+The next section of the cao.ipynb notebook involves data wrangling. In this section I manipulate the imported data from CAO 2019, CAO 2020 and CAO 2021 into one cohesive dataframe upon which the analysis is performed.
 
 ### 3. Exploratory Data Analysis.
 
@@ -150,12 +150,12 @@ The notebook plot.ipynb can also be split into two different sections:
 
 ### 1. An overview of the <code>matplotlib.pyplot</code>.
 
-This section gives a brief introduction into the package and walks through the process of building a chart using Fig and axes. Feel free to modify the x,y or z values in this sections to see how these values modify the charts produced!
+This section gives a brief introduction into the package and walks through the process of building a chart using Fig and axes. Feel free to modify the x,y or z values in this sections to see how these values modify the charts produced.
 
 ### 2. An Indepth Description Into Three Pyplot Charts.
 
 In this section I decided to use a time series plot, barplot and boxplot to create a Covid-19 dashboard.
-The dashboard evaluates the Covid-19 cases in Ireland per day. the Covid-19 deaths per day, the vaccination rate per European Country and finally the vaccintaion rate across different continents.
+The dashboard evaluates the Covid-19 cases in Ireland per day, the Covid-19 deaths per day, the vaccination rate per European Country and finally the vaccintaion rates worldwide.
 
 
 ## Trouble Shooting.
