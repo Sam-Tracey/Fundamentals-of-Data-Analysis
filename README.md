@@ -25,6 +25,7 @@ This repository contains two Jupyter Notebooks and associated files demonstratin
 - <code>seaborn</code> https://seaborn.pydata.org/
 - <code>scipy</code> https://docs.scipy.org/doc/scipy/reference/
 - <code>probscale</code> https://matplotlib.org/mpl-probscale/
+- <code>plotly</code> https://plotly.com/python/
     
 
     
